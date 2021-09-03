@@ -1,0 +1,3 @@
+# Project exclude paths
+/out/
+/redis-01-redis/target/
